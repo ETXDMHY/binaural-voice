@@ -116,6 +116,8 @@ function splitTags(text) {
 
 ## 数据来源与授权
 
+AGPL-3.0，附加一条署名条款（见 [NOTICE](./NOTICE)）：包含或基于本项目的作品，必须同样以 AGPL-3.0 开源（做成网络服务给别人用也算），并保留 NOTICE 里的署名。`hrir/` 里的数据不在此列，沿用原作者的 CC BY 4.0。
+
 `hrir/ku100_nearfield_circ360.npz` 取自：
 
 > J. M. Arend, A. Neidhardt, C. Pörschmann. *Spherical Near-Field (NF) HRIR Compilation of the Neumann KU100.* Zenodo, 2020. [doi:10.5281/zenodo.4297951](https://doi.org/10.5281/zenodo.4297951) — **CC BY 4.0**
